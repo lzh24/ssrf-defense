@@ -1,0 +1,32 @@
+{
+  "name": "safe-request",
+  "version": "1.0.0",
+  "description": "安全的HTTP请求库，防止SSRF攻击",
+  "main": "safe-request.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node test.js"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "security",
+    "ssrf",
+    "防护"
+  ],
+  "author": "Safe Request Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/safe-request.git"
+  },
+  "bugs": {
+    "url": "https://github.com/example/safe-request/issues"
+  },
+  "homepage": "https://github.com/example/safe-request#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
